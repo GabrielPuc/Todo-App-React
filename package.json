@@ -1,0 +1,31 @@
+{
+  "name": "todo_list_react",
+  "version": "1.0.0",
+  "author": "Gabriel Puc",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "prop-types": "^15.6.2",
+    "react": "17.0.0",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "17.0.0",
+    "react-redux": "^7.0.0",
+    "react-scripts": "^4.0.3",
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
